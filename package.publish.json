@@ -1,0 +1,13 @@
+{
+    "name": "browser-logger",
+    "version": "0.0.1",
+    "description": "Leightweight logging Framework for Browsers, that keeps it's history in IndexedDB.",
+    "main": "index.js",
+    "keywords": ["logger", "log", "browser", "indexeddb"],
+    "author": "Marcel Cremer",
+    "license": "MIT",
+    "peerDependencies": {
+        "dexie": "^2.0.4",
+        "json-stringify-safe": "^5.0.1"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "plugins": [{ "name": "typescript-tslint-plugin" }],
+        "target": "es2017",
+        "pretty": false,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "suppressImplicitAnyIndexErrors": true,
+        "allowUnreachableCode": true,
+        "lib": ["es2017"]
+    },
+    "exclude": ["node_modules", "dist", "decrypt.ts"]
+}

@@ -1,0 +1,11 @@
+typings/**/*
+node_modules/**/*
+src/**/*.js
+src/**/*.js.map
+dist
+npm-debug.log
+symbols.json
+debug.log
+.nyc_output
+testing/test-reports
+kipping...
