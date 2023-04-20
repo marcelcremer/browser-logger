@@ -16,7 +16,7 @@
     "author": "Marcel Cremer",
     "license": "MIT",
     "dependencies": {
-        "dexie": "^2.0.4",
+        "dexie": "^3.2.2",
         "json-stringify-safe": "^5.0.1"
     },
     "devDependencies": {
